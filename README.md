@@ -12,12 +12,11 @@ Das Projekt wird im Rahmen des [KI-Festivals Heilbronn](https://ki-festival.de) 
 ## 📐 Konzept & Struktur
 
 ### 🔷 Landingpage-Struktur
-1. **Hero-Bereich:** Titel, Introtext, Bild des Neckar-Gebiets
-2. **Problem:** Umweltverschmutzung & eingeschränkte Nutzung
-3. **Lösung:** Einsatz von Künstlicher Intelligenz zur Wasserreinigung
-4. **Vorteile:** Lebensqualität, Ökologie, Stadtentwicklung
-5. **Herausforderungen:** Sicherheit, Finanzierung, Technik
-6. **Umfrage:** Meinungsbild & Engagementmöglichkeit
+1. **Problem:** Umweltverschmutzung & eingeschränkte Nutzung
+2. **Lösung:** Einsatz von Künstlicher Intelligenz zur Wasserreinigung
+3. **Vorteile:** Lebensqualität, Ökologie, Stadtentwicklung
+4 **Herausforderungen:** Sicherheit, Finanzierung, Technik
+5. **Umfrage:** Meinungsbild & Engagementmöglichkeit
 
 ### 🔷 Inhaltliche Schwerpunkte
 - Aktuelle Situation des Neckars
