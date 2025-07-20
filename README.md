@@ -4,7 +4,7 @@ Sauberer Neckar in Heilbronn mit KI gestützten Klär-und-Reinigungsanlagen
 
 ## 🎯 Projektziel
 
-**badefähigen Neckars in Heilbronn** – möglich gemacht durch **KI-gestützte Klär- und Reinigungsanlagen**.  
+**Sauberer badefähiger Neckar in Heilbronn** – möglich gemacht durch **KI-gestützte Klär- und Reinigungsanlagen**.  
 Das Projekt wird im Rahmen des [KI-Festivals Heilbronn](https://ki-festival.de) vorgestellt.
 
 ---
