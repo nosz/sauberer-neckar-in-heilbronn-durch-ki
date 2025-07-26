@@ -1,4 +1,4 @@
-# sauberer-neckar-in-heilbronn-durch-ki
+# [Sauberer Neckar in Heilbronn durch KI -> https://nosz.github.io/sauberer-neckar-in-heilbronn-durch-ki](https://nosz.github.io/sauberer-neckar-in-heilbronn-durch-ki/) 
 Sauberer Neckar in Heilbronn mit KI gestützten Klär-und-Reinigungsanlagen
 ---
 
