@@ -9,9 +9,9 @@ Das Projekt wird im Rahmen des [KI-Festivals Heilbronn](https://ki-festival.de) 
 
 ---
 
-## 📐 Konzept & Struktur
+## 📐 Konzept
 
-### 🔷 Landingpage-Struktur
+### 🔷 
 1. **Problem:** Umweltverschmutzung & eingeschränkte Nutzung
 2. **Lösung:** Einsatz von Künstlicher Intelligenz zur Wasserreinigung
 3. **Vorteile:** Lebensqualität, Ökologie, Stadtentwicklung
